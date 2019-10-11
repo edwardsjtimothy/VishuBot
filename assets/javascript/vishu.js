@@ -7,7 +7,7 @@ $(() => {
     let vishuParty = 1
 
     //miliseconds before vishu time
-    let vishuTime = 3600000;
+    let vishuTime = 600000;
 
     //random wisdom function
     const vishuSpeaketh = () => {
