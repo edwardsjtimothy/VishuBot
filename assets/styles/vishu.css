@@ -32,3 +32,25 @@ body {
 #the-word-of-vishu {
     color: whitesmoke;
 }
+
+.vishu-background-btns {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.btn-light {
+    width: 70px;
+    height: 50px;
+}
+
+#purple-vishu {
+    background-color: violet;
+}
+
+#yellow-vishu {
+    background-color: yellow;
+}
+
+#blue-vishu {
+    background-color: blue;
+}

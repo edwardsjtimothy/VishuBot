@@ -4,7 +4,7 @@ $(()=> {
     
     let verseOfVishu = Math.floor(Math.random() * theBookOfVishu.length);
     let vishuSays = theBookOfVishu[verseOfVishu];
-    
+
     $("#the-word-of-vishu").html(vishuSays);
     
     
@@ -17,7 +17,7 @@ $(()=> {
 
 
 
-
+    
 
 
 
