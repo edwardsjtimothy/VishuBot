@@ -1,23 +1,15 @@
 body {
     background-color: purple;
 }
-
-.vishu-container {
-    position: relative;
-}
   
 .vishu-button {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, 50%);
+    text-align: center;
+    margin-top: 35%;
 }
 
 .vishu-wisdom {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-400%, 700%);
+    margin-top: 20px;
+    text-align: center;
 }
 
 #real-vishu {
