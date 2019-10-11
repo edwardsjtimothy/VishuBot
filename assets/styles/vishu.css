@@ -1,0 +1,42 @@
+body {
+    background-color: purple;
+}
+
+.vishu-container {
+    position: relative;
+}
+  
+.vishu-button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+}
+
+.vishu-wisdom {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-400%, 700%);
+}
+
+#real-vishu {
+    border-radius: 50%;
+    border: 2px whitesmoke solid;
+    box-shadow: 10px -10px 5px  rgba(0,0,0,0.6);
+    -moz-box-shadow: 10px -10px 5px  rgba(0,0,0,0.6);
+    -webkit-box-shadow: 10px -10px 5px  rgba(0,0,0,0.6);
+    -o-box-shadow: 10px -10px 5px  rgba(0,0,0,0.6);
+}
+
+#real-vishu:active {
+    box-shadow: 5px -5px 5px  rgba(0,0,0,0.8);
+    -moz-box-shadow: 5px -5px 5px  rgba(0,0,0,0.8);
+    -webkit-box-shadow: 5px -5px 5px  rgba(0,0,0,0.8);
+    -o-box-shadow: 5px -5px 5px  rgba(0,0,0,0.8);
+    transform: translate(2px, -4px);
+}
+
+#the-word-of-vishu {
+    color: whitesmoke;
+}
