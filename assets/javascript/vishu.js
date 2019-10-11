@@ -56,7 +56,7 @@ $(() => {
     //vishu time
     const itsADiv = () => setInterval(() => {
         claps();
-    }, 10000);
+    }, vishuTime);
 
     //deal with it
     itsADiv()
