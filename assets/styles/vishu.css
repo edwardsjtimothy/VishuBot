@@ -1,4 +1,4 @@
-body {
+body, html {
     background-color: purple;
 }
   
@@ -48,7 +48,7 @@ body {
 }
 
 #yellow-vishu {
-    background-color: yellow;
+    background-color:  lightgreen;
 }
 
 #blue-vishu {
